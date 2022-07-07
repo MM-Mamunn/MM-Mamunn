@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MM-Mamunn
 - 👀 I’m interested in developing.
-- 🌱 I’m currently learning C++ in my university.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on any development project.
 - 📫 Reach me via Email: gamesmamun8@gmail.com
 
