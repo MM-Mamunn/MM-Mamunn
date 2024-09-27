@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamun</h1>
-<h3 align="center"> Competitive Programmer | Django Web Development | C++ | Python | HTML | CSS | Bootstrap | PostgreSQL | React</h3>
+<h3 align="center"> Competitive Programmer | Django Web Development | C++ | Python | HTML | CSS | Tailwind | PostgreSQL | React</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mm-mamunn&label=Profile%20views&color=0e75b6&style=flat" alt="mm-mamunn" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
