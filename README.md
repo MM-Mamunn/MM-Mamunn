@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mamun</h1>
+<h1 align="center">Hi 👋, I'm Mamun,</h1>
+<h2>
+Passionate Competitive Programmer and Full Stack Web Developer with knowledge in building scalable web applications using the MERN stack, Django, and PostgreSQL.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mm-mamunn&label=Profile%20views&color=0e75b6&style=flat" alt="mm-mamunn" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
