@@ -102,7 +102,7 @@ B.Sc. in Computer Science and Engineering (2022–2025)
 ### 💻 Work Experience
 
 - Bootcamp Coordinator & Problem Setter — IIUCCPS (Spring 25)
-- AI Chatbot Trainer for Code — Outlier :contentReference[oaicite:5]{index=5}
+- AI Chatbot Trainer for Code — Outlier 
 
 ---
 ### 🌐 Languages
@@ -125,16 +125,4 @@ B.Sc. in Computer Science and Engineering (2022–2025)
 
 ---
 
-### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/mmmamun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/mamun.mahmud.904750/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="mailto:mamunmahmud756@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
