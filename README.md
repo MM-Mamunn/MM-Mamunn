@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Mamun Mahmud</h1>
-<h3 align="center">Competitive Programmer | Full-Stack Web Developer | Software Engineer</h3>
+<h3 align="center">Competitive Programmer | Software Engineer | Research Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mmmamun" target="_blank">
