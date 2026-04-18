@@ -28,7 +28,7 @@
 
 ### 🚀 About Me
 
-I am a final-semester Computer Science and Engineering student at International Islamic University Chittagong with a strong focus on competitive programming, full-stack development, and applied machine learning. I enjoy building scalable web applications, solving algorithmic problems, and turning ideas into practical products. I have solved 1600+ problems, hold a Codeforces Specialist rating, and ranked 29th in ICPC Dhaka Regional 2025. :contentReference[oaicite:1]{index=1}
+I am a final-semester Computer Science and Engineering student at International Islamic University Chittagong with a strong focus on competitive programming, full-stack development, and applied machine learning. I enjoy building scalable web applications, solving algorithmic problems, and turning ideas into practical products. I have solved 1600+ problems, hold a Codeforces Specialist rating, and ranked 29th in ICPC Dhaka Regional 2025. 
 
 ---
 
@@ -48,7 +48,7 @@ I am a final-semester Computer Science and Engineering student at International 
 - PostgreSQL and MongoDB
 - Backend API development with modern frameworks
 - UI development with Tailwind CSS and React
-- AI / ML basics with PyTorch and OpenCV
+- AI / ML with PyTorch and OpenCV
 
 ---
 
@@ -81,15 +81,15 @@ A messaging platform with true end-to-end encryption using a secret key handled 
 - Participant in NCPC BD 2023
 - Participant in BUET IUPC 2024
 - **Codeforces Specialist**
-- **1600+ problems solved** :contentReference[oaicite:2]{index=2}
+- **1600+ problems solved** 
 
 ---
 
 ### 📚 Research & Publications
 
 - Privacy-Preserving Federated Deep Learning for Multi-Class Liver Fibrosis Staging from Ultrasound Images (ICAIBD 2026)
-- Development and Comparative Analysis of Deep Learning Models for Multiclass Classification of Liver Conditions in Ultrasound Imaging (2025 5th ICSINTESA) – IEEE Xplore
-- Federated Deep Learning Framework for Robust Diabetic Retinopathy Classification (ongoing thesis) :contentReference[oaicite:3]{index=3}
+- [Development and Comparative Analysis of Deep Learning Models for Multiclass Classification of Liver Conditions in Ultrasound Imaging (2025 5th ICSINTESA)](https://ieeexplore.ieee.org/document/11413762)
+- Federated Deep Learning Framework for Robust Diabetic Retinopathy Classification (ongoing thesis) 
 
 ---
 
@@ -105,7 +105,6 @@ B.Sc. in Computer Science and Engineering (2022–2025)
 - AI Chatbot Trainer for Code — Outlier :contentReference[oaicite:5]{index=5}
 
 ---
-
 ### 🌐 Languages
 
 - English — Professional Working Proficiency
