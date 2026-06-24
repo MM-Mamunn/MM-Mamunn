@@ -1,16 +1,13 @@
-<!--
-  GitHub Profile README
--->
+<!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Mamun Mahmud</h1>
-<h3 align="center">Competitive Programmer | Software Engineer | Research Enthusiast</h3>
+<p align="center">
+  <b>AI/ML Researcher • Competitive Programmer • Full-Stack Developer</b>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mmmamun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/mamun.mahmud.904750/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:mamunmahmud756@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -26,103 +23,73 @@
 
 ---
 
-### 🚀 About Me
+### About
 
-I am a final-semester Computer Science and Engineering student at International Islamic University Chittagong with a strong focus on competitive programming, full-stack development, and applied machine learning. I enjoy building scalable web applications, solving algorithmic problems, and turning ideas into practical products. I have solved 1600+ problems, hold a Codeforces Specialist rating, and ranked 29th in ICPC Dhaka Regional 2025. 
+I build practical software and research-driven AI systems, with a focus on federated learning, medical imaging, and full-stack applications.
 
 ---
 
-### 🛠️ Tech Stack
+### Highlights
+
+- B.Sc. in CSE, IIUC — CGPA 3.91 / 4.00
+- Ranked 1st in the batch
+- ICPC Dhaka Regional 2025 — 29th place
+- Codeforces Specialist
+- 1500+ competitive programming problems solved
+
+---
+
+### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nodejs,express,django,tailwind,bootstrap,postgres,mongodb,mysql,git,github,linux,arduino,qt,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nodejs,express,django,tailwind,postgres,mongodb,git,linux,pytorch,opencv" />
 </p>
 
 ---
 
-### 💼 What I Work With
+### Selected Projects
 
-- Competitive Programming and problem solving
-- MERN / PERN stack development
-- Django and Django REST API
-- PostgreSQL and MongoDB
-- Backend API development with modern frameworks
-- UI development with Tailwind CSS and React
-- AI / ML with PyTorch and OpenCV
+- **Resources Management** — department routines, schedules, materials, and bus info
+- **IIUC Computer Club Backend** — Hono, TypeScript, Drizzle ORM, PostgreSQL
+- **Bus Management** — Django REST API, React, PostgreSQL
+- **ShowMe** — end-to-end encrypted messaging app
 
 ---
 
-### 📌 Featured Projects
+### Research
 
-#### 1. Resources Management System
-A department-level platform for section-wise routines, personalized schedules, classroom reservation, course materials, bus schedules, and faculty contact access. Class representatives can update schedules, and teachers can view their assigned routines.  
-**Tech:** PERN
-
-#### 2. IIUC Computer Club Backend
-A backend API built using Hono, TypeScript, and Drizzle ORM to manage member data and streamline campus activities.  
-**Tech:** Hono, PostgreSQL, Drizzle ORM
-
-#### 3. Bus Management System
-A management system for a bus service company that helps administrators monitor bus statistics, track performance, and manage bus acquisition and assignment based on data-driven recommendations.  
-**Tech:** Django REST API, PostgreSQL, React
-
-#### 4. ShowMe Messaging App
-A messaging platform with true end-to-end encryption using a secret key handled on the frontend for message encryption.  
-**Tech:** MERN
+- Federated learning for medical imaging
+- Liver ultrasound classification
+- Histopathology image analysis
+- Diabetic retinopathy classification
 
 ---
 
-### 🏆 Achievements
+### Experience
 
-- Ranked **29th** in ICPC Dhaka Regional 2025
-- Participant in ICPC Dhaka Regional 2024
-- **2nd** in CoU IUPC 2024
-- **4th** in Programming Hero National Hackathon EWU 2024
-- Participant in NCPC BD 2023
-- Participant in BUET IUPC 2024
-- **Codeforces Specialist**
-- **1600+ problems solved** 
+- Teaching Assistant — Competitive Programming 2
+- Teaching Assistant — C Programming
+- Bootcamp Coordinator & Problem Setter
+- AI Chatbot Trainer and Response Evaluator
 
 ---
 
-### 📚 Research & Publications
+### Achievements
 
-- Privacy-Preserving Federated Deep Learning for Multi-Class Liver Fibrosis Staging from Ultrasound Images (ICAIBD 2026)
-- [Development and Comparative Analysis of Deep Learning Models for Multiclass Classification of Liver Conditions in Ultrasound Imaging (2025 5th ICSINTESA)](https://ieeexplore.ieee.org/document/11413762)
-- Federated Deep Learning Framework for Robust Diabetic Retinopathy Classification (ongoing thesis) 
-
----
-
-### 🎓 Education
-
-**International Islamic University Chittagong**  
-B.Sc. in Computer Science and Engineering (2022–2025)  
----
-
-### 💻 Work Experience
-
-- Bootcamp Coordinator & Problem Setter — IIUCCPS (Spring 25)
-- AI Chatbot Trainer for Code — Outlier 
-
----
-### 🌐 Languages
-
-- English — Professional Working Proficiency
-- Bangla — Native or Bilingual Proficiency
+- ICPC Dhaka Regional 2024 — Participant
+- CoU IUPC 2024 — 2nd place
+- Programming Hero National Hackathon EWU 2024 — 4th place
+- NCPC Bangladesh 2023 — Participant
+- BUET IUPC 2024 — Participant
 
 ---
 
-### 📊 GitHub Stats
+### Languages
+
+- English
+- Bangla
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mm-mamunn&show_icons=true&locale=en&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mm-mamunn&show_icons=true&locale=en&layout=compact" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mm-mamunn" alt="GitHub Streak" />
-</p>
-
----
-
-
