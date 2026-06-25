@@ -30,9 +30,9 @@ I build practical software and research-driven AI systems, with a focus on feder
 ---
 
 ### Highlights
-
+<!--
 - B.Sc. in CSE, IIUC — CGPA 3.91 / 4.00
-- Ranked 1st in the batch
+- Ranked 1st in the batch -->
 - ICPC Dhaka Regional 2025 — 29th place
 - Codeforces Specialist
 - 1500+ competitive programming problems solved
