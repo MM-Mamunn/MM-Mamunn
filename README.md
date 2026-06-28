@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://mamunmahmud.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-mamunmahmud.com-2563EB?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-mamunmahmud.com-2563EB?style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/mmmamun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,33 +22,37 @@
 </p>
 
 <p align="center">
+  <a href="https://mamunmahmud.com"><b>🌐 Visit My Portfolio → mamunmahmud.com</b></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mm-mamunn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 About
+### About
 
-I build practical software and research-driven AI systems, with a focus on **federated learning**, **medical imaging**, and **full-stack applications**.
+I build practical software and research-driven AI systems, with a focus on federated learning, medical imaging, and full-stack applications.
 
-🌐 **Personal Portfolio:** **https://mamunmahmud.com**
+> **🌐 Portfolio:** **https://mamunmahmud.com**
 
 ---
 
-## 🏆 Highlights
+### Highlights
 
 <!--
 - B.Sc. in CSE, IIUC — CGPA 3.91 / 4.00
 - Ranked 1st in the batch
 -->
 
-- 🥇 ICPC Dhaka Regional 2025 — **29th Place**
-- ⭐ Codeforces Specialist
-- 💻 Solved **1500+** competitive programming problems
+- ICPC Dhaka Regional 2025 — 29th place
+- Codeforces Specialist
+- 1500+ competitive programming problems solved
 
 ---
 
-## 💻 Skills
+### Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nodejs,express,django,tailwind,postgres,mongodb,git,linux,pytorch,opencv" />
@@ -56,58 +60,50 @@ I build practical software and research-driven AI systems, with a focus on **fed
 
 ---
 
-## 🚀 Selected Projects
+### Selected Projects
 
-- **Resources Management** — Department routines, schedules, materials, and bus information
+- **Resources Management** — department routines, schedules, materials, and bus info
 - **IIUC Computer Club Backend** — Hono, TypeScript, Drizzle ORM, PostgreSQL
 - **Bus Management** — Django REST API, React, PostgreSQL
-- **ShowMe** — End-to-end encrypted messaging application
+- **ShowMe** — end-to-end encrypted messaging app
 
 ---
 
-## 🔬 Research Interests
+### Research
 
-- Federated Learning for Medical Imaging
-- Liver Ultrasound Classification
-- Histopathology Image Analysis
-- Diabetic Retinopathy Classification
+- Federated learning for medical imaging
+- Liver ultrasound classification
+- Histopathology image analysis
+- Diabetic retinopathy classification
 
 ---
 
-## 💼 Experience
+### Experience
 
 - Teaching Assistant — Competitive Programming 2
 - Teaching Assistant — C Programming
 - Bootcamp Coordinator & Problem Setter
-- AI Chatbot Trainer & Response Evaluator
+- AI Chatbot Trainer and Response Evaluator
 
 ---
 
-## 🏅 Achievements
+### Achievements
 
-- ICPC Dhaka Regional 2025 — 29th Place
 - ICPC Dhaka Regional 2024 — Participant
-- CoU IUPC 2024 — 2nd Place
-- Programming Hero National Hackathon EWU 2024 — 4th Place
+- CoU IUPC 2024 — 2nd place
+- Programming Hero National Hackathon EWU 2024 — 4th place
 - NCPC Bangladesh 2023 — Participant
 - BUET IUPC 2024 — Participant
 
 ---
 
-## 🌍 Languages
+### Languages
 
 - English
 - Bangla
 
----
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mm-mamunn&show_icons=true&locale=en&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mm-mamunn&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-  <b>🌟 Visit my portfolio:</b><br>
-  <a href="https://mamunmahmud.com">https://mamunmahmud.com</a>
 </p>
 ```
