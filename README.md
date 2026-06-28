@@ -1,4 +1,4 @@
-```markdown
+
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Mamun Mahmud</h1>
@@ -106,4 +106,3 @@ I build practical software and research-driven AI systems, with a focus on feder
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mm-mamunn&show_icons=true&locale=en&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mm-mamunn&show_icons=true&locale=en&layout=compact" />
 </p>
-```
