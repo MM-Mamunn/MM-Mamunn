@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Banner -->
 <a href="https://mamunmahmud.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mamun+Mahmud+%F0%9F%91%8B;AI%2FML+Researcher+%26+Engineer;Competitive+Programmer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=+I'm+Mamun+Mahmud+%F0%9F%91%8B;AI%2FML+Researcher+%26+Engineer;Competitive+Programmer;Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
